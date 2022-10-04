@@ -9,7 +9,7 @@
   "dependencies": {
     "accordion-collapse-react-native": "^0.1.9",
     "email-validator": "^2.0.4",
-    "expo": "^32.0.0",
+    "expo": "^46.0.14",
     "moment": "^2.24.0",
     "native-base": "^2.8.1",
     "react": "16.5.0",
